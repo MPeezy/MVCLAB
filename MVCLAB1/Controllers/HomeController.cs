@@ -40,6 +40,17 @@ namespace MVCLAB1.Controllers
             return View(m);
         }
 
+        public IActionResult List()
+        {
+            //nothing special just displaying 
+            return View();
+        }
+        public IActionResult Result2(Movie m)
+        {
+
+            return View(m);
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

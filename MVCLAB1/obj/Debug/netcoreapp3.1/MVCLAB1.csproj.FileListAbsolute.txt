@@ -37,3 +37,10 @@ C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\MVCLAB1.g
 C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\MVCLAB1.csproj.CopyComplete
 C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieForm.cshtml.g.cs
 C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\MVCLAB1.csproj.AssemblyReference.cache
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\Razor\Views\moviedb\Index.cshtml.g.cs
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\MPatton5\source\repos\MVCLAB1\MVCLAB1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result2.cshtml.g.cs
